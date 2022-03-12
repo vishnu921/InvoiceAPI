@@ -2,7 +2,9 @@
 
 This API is built using nodejs and GraphQL.
 
-## URL 
+## URL
+
+https://my-invoice-api.herokuapp.com/
 
 ## Requirements
 
@@ -26,7 +28,7 @@ $ npm install
 
 # Instructions to use API
 
-URL: 
+URL: https://my-invoice-api.herokuapp.com/graphql
 
 ## Mutation
 1. Sample call for mutation of Store

@@ -4,7 +4,7 @@ const { resolvers } = require('./resolvers');
 const { schema } = require('./schema');
 
 const app = express();
-const port = process.env.Port || 8000;
+const port = process.env.PORT || 8000;
 
 app.get('/', (req, res) => {
     res.send("Welcome to Invoice Api");
